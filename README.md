@@ -12,7 +12,7 @@ Objective relates to the stance of Objectivism, which stipulates that understand
 
 Subjectivism relates to the stance that subjects play a role in generating understanding, meaning that subjects impart meaning on a phenomenon.
 
-Constructivism relates to the stance that understanding is `constructed` by the interaction of a subject with an object (phenomenon).
+Constructivism relates to the stance that understanding is **constructed** by the interaction of a subject with an object (phenomenon).
 
 Our Hypothesis going into this survey is that most AI work is objectivist-based work (CV, Optimisation). We expect to see some research projects acknowledging a subjective approach to research (i.e., human-centered design), however, we also expect these projects to be using Objective-based AI, meaning a clash of philosophies are present (perhaps for pragmatic reasons). Again we expect to see some research projects acknowledging a constructivist approach, whereby humans interact in a back-and-forth manner with AI to make a decision or prediction, however, few
 
