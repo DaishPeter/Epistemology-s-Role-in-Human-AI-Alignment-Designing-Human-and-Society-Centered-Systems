@@ -14,7 +14,7 @@ Subjectivism relates to the stance that subjects play a role in generating under
 
 Constructivism relates to the stance that understanding is `constructed` by the interaction of a subject with an object (phenomenon).
 
-Our Hypothesis going into this survey is that most AI work is objectivist-based work (CV, Optimisation). We expect to see some research projects acknowledging a subjective approach to research (i.e., human-centered design), however, we also expect these projects to be using Objective-based AI, meaning a clash of philosophies are present (perhaps for pragmatic reasons).
+Our Hypothesis going into this survey is that most AI work is objectivist-based work (CV, Optimisation). We expect to see some research projects acknowledging a subjective approach to research (i.e., human-centered design), however, we also expect these projects to be using Objective-based AI, meaning a clash of philosophies are present (perhaps for pragmatic reasons). Again we expect to see some research projects acknowledging a constructivist approach, whereby humans interact in a back-and-forth manner with AI to make a decision or prediction, however, few
 
 To find Relevant Literature, we will use the following search strings:
 
