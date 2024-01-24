@@ -16,12 +16,11 @@ Constructivism relates to the stance that understanding is **constructed** by th
 
 Our Hypothesis going into this survey is that most AI work is objectivist-based work (CV, Optimisation). We expect to see some research projects acknowledging a subjective approach to research (i.e., human-centered design), however, we also expect these projects to be using Objective-based AI, meaning a clash of philosophies are present (perhaps for pragmatic reasons). Again we expect to see some research projects acknowledging a constructivist approach, whereby humans interact in a back-and-forth manner with AI to make a decision or prediction, however, few
 
-To begin with, we performed a broad search which mention these epistemologies (or epistemology itself) in the title and abstract of the papers:
+To begin with, we performed a broad search which mention these epistemologies (or epistemology itself) in the title, abstract and keywords of the papers:
 - "Human?AI" OR "Human-Centered AI" OR "HCAI" OR "Artificial Intelligence"
 - AND
 - Epistemology OR Constructivist OR Subjectivist OR Objectivist
 
 We performed this search on SCOPUS and PROQuest academic databases.
 
-ACM DL returned: 356 responses
-SCOPUS returned
+SCOPUS returned: 652 results
